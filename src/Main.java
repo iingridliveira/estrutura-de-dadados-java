@@ -6,8 +6,8 @@ public class Main {
         Questao q4 = new Questao("  Quanto é 50 x 40?", "2000", "200", "10", "400", 1);
         Alunos aluno01= new Alunos("Ingrid", 22345);
         Prova p = new Prova(aluno01, q1, q2, q3,q4);
-           p.aplicarrProva();
-           p.corrigirProva();
+           p.aplicarrProva( );
+           p.corrigirProva( );
 
 
 

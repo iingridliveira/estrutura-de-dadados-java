@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class Prova {
-    Alunos candidato;
+    Alunos  candidato;
     Questao  q1, q2, q3, q4;
     private  int a1;
     private int a2;

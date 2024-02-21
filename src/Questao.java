@@ -15,7 +15,7 @@ public class Questao {
         this.alternativacerta =alternativacerta;
     }
 
-      public String Mostrar(){
+      public String Mostrar( ){
          return  enunciado + "\n"+
         "1-" + alternativa1 +
           "\n2-" + alternativa2+

@@ -7,7 +7,7 @@ public class Alunos {
 
     }
 
-    public String getNome() {
+    public String getNome( ) {
         return nome;
     }
 
